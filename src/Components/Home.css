@@ -1,0 +1,29 @@
+.homebg{
+  color: white;
+  height: 85vh;
+  background: url("./HomeBG.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+
+#heading{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: bolder;
+  color: crimson;
+}
+
+.imgdivreact{
+  height: 150px;
+  width: 200px;
+}
+.imgdiv{
+  height: 150px;
+  width: 170px;
+  border-radius: 50%;
+}
+
+/* #para{
+  /* background-color: ; 
+} */

@@ -1,0 +1,21 @@
+#h1{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(221, 135, 221);
+  font-weight: bold;
+  padding: 20px;
+}
+
+#courseLabel{
+  /* color: white; */
+  font-weight: bold;
+
+}
+
+.addForm{
+  font-family:'Times New Roman', Times, serif;
+  width: 80%;
+  margin-left: 10%;
+  background-color: gray;
+
+}
+

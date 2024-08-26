@@ -1,0 +1,50 @@
+/* .loginSideImg{
+  background-image: url("https://st3.depositphotos.com/32629564/37254/v/1600/depositphotos_372542048-stock-illustration-cartoon-pregnant-woman-laptop-working.jpg");
+  height: 80vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: black 2px solid;
+  border-radius: 15px;
+} */
+
+.container1{
+  background-image: url("./Images/morpankh.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* border: 1px solid black;  */
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* input{
+  border-style: none;
+  background-color: red;
+} */
+#heading{
+  color: darkcyan;
+}
+
+
+#exampleInputEmail1, #exampleInputPassword1{
+  border-style: none;
+  background: transparent;
+  border-bottom: 2px solid black;
+}
+
+#exampleInputPassword1{
+  margin-bottom: 8%;
+}
+
+
+.formside{
+  height: auto;
+  width: 30vw;
+  padding: 8%;
+  border: 1px solid black;
+  border-radius:15px;
+  background: linear-gradient(rgb(232, 240, 241), rgb(186, 225, 233), rgb(164, 234, 234));
+  backdrop-filter: blur 30%;
+  }
